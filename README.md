@@ -61,8 +61,8 @@ Mock Mode aktiveres automatisk når OPENAI_API_KEY ikke finnes.
 
 ### I mock-modus:
 
-- Embeddings genereres deteministisk -> ingen API-kall
-- Query embeddings genereres deteministisk -> ingen API-kall
+- Embeddings genereres deterministisk -> ingen API-kall
+- Query embeddings genereres deterministisk -> ingen API-kall
 - RAG-svaret er et simulert AI-svar som viser hvordan en ekte RAG-modell ville reagert
 
 ### Dette gjør prosjektet: 
